@@ -3,5 +3,5 @@
 first sub branch
 first main branch
 second main branch
-CONFLICT RESOLVED
+CONFLICT RESOLVED!!!
 
